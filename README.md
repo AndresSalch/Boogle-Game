@@ -24,6 +24,8 @@ Los jugadores tienen un límite de 3 minutos para buscar palabras en cada ronda.
 
 *El juego posee un diccionario en ingles y en español*
 
+![image](https://github.com/user-attachments/assets/09468a64-934c-4e26-9cbd-735c74449410)
+![image](https://github.com/user-attachments/assets/533e7f9a-4c5a-49d3-98be-b9040444fe01)
 
 
 # Documentación
